@@ -1,1 +1,1 @@
-This Project is an House Price Prediction works based on Linear Regression
+In this project, we implement a Linear Regression-based algorithm for predicting house prices. The goal is to build a model that accurately estimates the price of a house based on its features such as area, number of bedrooms, location, etc. We begin by collecting a dataset containing relevant information about various houses including their prices
